@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Image/expand_normal.png</file>
+        <file>Image/unexpand_normal.png</file>
+        <file>Image/expand_selected.png</file>
+        <file>Image/unexpand_selected.png</file>
+    </qresource>
+</RCC>
